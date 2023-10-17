@@ -45,9 +45,9 @@ public class Login extends javax.swing.JFrame {
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/buah/assets/hero.png"))); // NOI18N
 
-        jLabel2.setBackground(new java.awt.Color(0, 51, 255));
+        jLabel2.setBackground(new java.awt.Color(255, 255, 255));
         jLabel2.setFont(new java.awt.Font("Arial", 1, 16)); // NOI18N
-        jLabel2.setForeground(new java.awt.Color(0, 255, 255));
+        jLabel2.setForeground(new java.awt.Color(0, 51, 255));
         jLabel2.setText("Welcome to My Page");
 
         jLabel3.setText("Username");
